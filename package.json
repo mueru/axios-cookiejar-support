@@ -53,7 +53,7 @@
     }
   },
   "dependencies": {
-    "http-cookie-agent": "^4.0.1"
+    "http-cookie-agent": "github:mueru/http-cookie-agent"
   },
   "devDependencies": {
     "@3846masa/configs": "github:3846masa/configs#f58359ef90371627df765df8e8caff69b85dfb23",
